@@ -63182,8 +63182,8 @@ $.ad=P.w(H.Y("ft<af<a3>>"),t.t)
 $.b0=1
 $.aie=H.d([0,0,0],t.X)
 $.aif=H.d([0,0,0,0],t.X)
-$.aop="http://127.0.0.1:8000/api/search/song/"
-$.ao5="http://127.0.0.1:8000/api/stream/"
+$.aop="http://aiishop.in:9091/api/search/song/"
+$.ao5="http://aiishop.in:9091/api/stream/"
 $.fs=null
 $.d9=P.w(t.bi,H.Y("pf<@>*"))
 $.ahU=function(){var s=t.bi
