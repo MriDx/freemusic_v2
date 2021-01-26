@@ -1,0 +1,27 @@
+{
+  "name": "freemusic",
+  "version": "1.0.0",
+  "description": "just a regular music streaming app but free without ads",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "freemusic",
+    "freemusic",
+    "stream",
+    "music",
+    "stream",
+    "songs",
+    "free",
+    "songs"
+  ],
+  "author": "MriDx",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
